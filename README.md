@@ -24,7 +24,7 @@ If you are using ViperPHP, you will configure these assets in your controller (s
 
 ## 🛠 Usage
 ### 1. Initialize Session
-Ensure that session_start() is called at the beginning of your application.
+Ensure that session_start() is called at the beginning of your application. With ViperPHP, you do not need to do this.
 
 ### 2. Set a Flash Message
 Use the setFlash method in your Controller or logic:
